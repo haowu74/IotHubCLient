@@ -3,3 +3,9 @@
 ################################################################################
 
 /CS/.vs/IoTHubClients/v15/Server/sqlite3
+/CS/IoTHubForegroundClient/AppPackages/IoTHubForegroundClient_1.0.0.0_Debug_Test/Add-AppDevPackage.resources
+/CS/IoTHubForegroundClient/AppPackages/IoTHubForegroundClient_1.0.0.0_Debug_Test/Dependencies
+/CS/IoTHubForegroundClient/AppPackages/IoTHubForegroundClient_1.0.0.0_Debug_Test
+/CS/IoTHubForegroundClient/bin/ARM
+/CS/IoTHubForegroundClient/BundleArtifacts
+/CS/IoTHubForegroundClient/obj
